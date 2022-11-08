@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "packageManager": "pnpm@7.14.1",
   "description": "",
+  "repository": {
+    "url": "https://github.com/PixeledLuaWriter/caesar"
+  },
   "main": "dist/cli.js",
   "scripts": {
     "build": "tsc",
