@@ -2,7 +2,6 @@
   "name": "@pixeledluawriter/caesar",
   "version": "1.0.0",
   "packageManager": "pnpm@7.14.1",
-  "private": "false",
   "description": "",
   "main": "dist/cli.js",
   "scripts": {
