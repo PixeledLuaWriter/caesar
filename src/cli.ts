@@ -2,7 +2,6 @@
 
 // Importing Modules, Above is for POSIX/UNIX systems including macOS
 import { Command } from "commander";
-import { version } from "../package.json"
 import CommanderOptions from "./common/types"
 import gradient from "gradient-string"
 import { caesarCipher } from "./utils/functions";
@@ -14,7 +13,7 @@ const program = new Command()
 */
 
 program
-    .version(version)
+    .version("1.1.0")
     .description(gradient.atlas("A tool that allows you to encrypt or decrypt messages written in or out of the caesar cipher"))
     .option("-e, --encrypt <string>", "Encrypts user input to caesar cipher")
     .option("-d, --decrypt <string>", "Decrypts message back to user input")
