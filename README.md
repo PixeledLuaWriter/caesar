@@ -37,7 +37,7 @@ caesar --shift -3 --decrypt yhvy
 
 # Questions & Concerns
 
-if you have any questions or concerns about the project, you can go ahead and message me [here](https://github.com/PixeledLuaWriter/caesar/discussions),
+if you have any questions or concerns about the project, you can go ahead and message me on the discussions tab on this repo,
 Also if you would like to contribute to this project, just go ahead and fork this repo and submit a pull request
 with your changes, Aside from that
 
